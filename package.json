@@ -2,8 +2,8 @@
   "name": "rails-garden-manager",
   "private": true,
   "dependencies": {
-    "@rails/webpacker": "^4.2.0",
-    "bootstrap": "^4.3.1",
+    "@rails/webpacker": "5.2.1",
+    "bootstrap": "^4.6.0",
     "browserslist": "^4.16.5",
     "dns-packet": "^5.2.2",
     "glob-parent": "^5.1.2",
@@ -16,11 +16,12 @@
     "normalize-url": "^4.5.1",
     "popper.js": "^1.16.0",
     "postcss": "^8.2.10",
+    "react-bootstrap": "^1.6.3",
     "ssri": "^8.0.1",
     "trim-newlines": "^3.0.1",
     "ws": "^7.4.6"
   },
   "devDependencies": {
-    "webpack-dev-server": "^3.9.0"
+    "webpack-dev-server": "^4.2.1"
   }
 }
